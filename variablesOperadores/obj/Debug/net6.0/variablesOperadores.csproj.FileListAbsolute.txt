@@ -1,0 +1,15 @@
+D:\C#\variablesOperadores\variablesOperadores\bin\Debug\net6.0\variablesOperadores.exe
+D:\C#\variablesOperadores\variablesOperadores\bin\Debug\net6.0\variablesOperadores.deps.json
+D:\C#\variablesOperadores\variablesOperadores\bin\Debug\net6.0\variablesOperadores.runtimeconfig.json
+D:\C#\variablesOperadores\variablesOperadores\bin\Debug\net6.0\variablesOperadores.dll
+D:\C#\variablesOperadores\variablesOperadores\bin\Debug\net6.0\variablesOperadores.pdb
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\variablesOperadores.csproj.AssemblyReference.cache
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\variablesOperadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\variablesOperadores.AssemblyInfoInputs.cache
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\variablesOperadores.AssemblyInfo.cs
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\variablesOperadores.csproj.CoreCompileInputs.cache
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\variablesOperadores.dll
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\refint\variablesOperadores.dll
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\variablesOperadores.pdb
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\variablesOperadores.genruntimeconfig.cache
+D:\C#\variablesOperadores\variablesOperadores\obj\Debug\net6.0\ref\variablesOperadores.dll
